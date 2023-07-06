@@ -1,1 +1,1 @@
-# Supervised-Learning
+# Linear regression and classification with python
